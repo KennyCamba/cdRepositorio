@@ -7,7 +7,7 @@ package cancion;
 
 /**
  *
- * @author Municipio de Kenny Camba
+ * @author Kenny Camba
  */
 public class CD {
     
